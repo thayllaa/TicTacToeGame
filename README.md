@@ -1,30 +1,23 @@
-# Jogo da Velha
+# 📌 Jogo da Velha
 
-## **Deonstração: **
-![Tic Tac Toe](https://github.com/thayllaa/TicTacToe/tictactoe/public/TicTacToe_Screenshot.png)
+## 🖼️ **Demonstração:**
+![Tic Tac Toe](https://github.com/thayllaa/TicTacToeGame/blob/master/public/TicTacToe_Screenshot.png)
 
-## **Descrição: **
-Um simples jogo da velha criado com Vue.js em Vite.
+## ℹ️ **Descrição:**
+Divirta-se com um clássico jogo da velha, totalmente desenvolvido com Vue.js e Vite para garantir uma experiência rápida e responsiva. Desafie seus amigos em partidas emocionantes.
 
-## **Tecnologias utilizadas:**
-* Vue.js
-* Vue CLI
+## 💻 **Tecnologias utilizadas:**
+[![Skill Icons](https://skillicons.dev/icons?i=vue,vite,tailwind&theme=dark)](https://skillicons.dev)
 
-## **Instalação:**
-1. **Clonar o repositório:** `git clone https://github.com/thayllaa/TicTacToe-Vue.git`
+## ✔️ **Instalação:**
+1. **Clonar o repositório:** `git clone https://github.com/thayllaa/TicTacToeGame.git`
 2. **Instalar as dependências:** `npm install`
+3. **Rodar no terminal:** `npm run serve`
 
-## **Execução:**
-`npm run serve`
-
-## **Funcionalidades:**
+## 🛠️ **Funcionalidades:**
 * Dois jogadores podem jogar alternadamente.
 * O jogo detecta o vencedor automaticamente.
 * Botão para reiniciar o jogo.
-
-## **Estrutura de pastas:**
-* `src`: Contém os componentes Vue e os arquivos de estilo.
-* `public`: Contém o arquivo index.html.
 
 ## **Autor**
 **[@thayllaa](https://www.github.com/thayllaa)**
