@@ -1,7 +1,7 @@
 # 📌 Jogo da Velha
 
 ## 🖼️ **Demonstração:**
-![Tic Tac Toe](https://github.com/thayllaa/TicTacToeGame/blob/master/public/TicTacToe_Screenshot.png)
+<img src="https://github.com/thayllaa/TicTacToeGame/blob/master/public/TicTacToe_Screenshot.png" width="47%" alt="Imagem Jogo da Velha">
 
 ## ℹ️ **Descrição:**
 Divirta-se com um clássico jogo da velha, totalmente desenvolvido com Vue.js e Vite para garantir uma experiência rápida e responsiva. Desafie seus amigos em partidas emocionantes.
